@@ -1,6 +1,17 @@
-# api_test
+# Flutter Authentication UI Project
 
-A new Flutter project.
+I made this project to learn more about Networking in flutter.
+
+![](auth.png)
+
+
+# In this project I learned How to deal with:
+
+- Firebase Methods.
+
+- Networking.
+
+- Navigator.
 
 ## Getting Started
 
