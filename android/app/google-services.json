@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506985974303",
+    "firebase_url": "https://flutter-network-app.firebaseio.com",
+    "project_id": "flutter-network-app",
+    "storage_bucket": "flutter-network-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506985974303:android:84766a898d2b14554aa32a",
+        "android_client_info": {
+          "package_name": "com.example.api_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506985974303-4fk559un689kbjcbdf34m3hvarul1k92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfY49aIUvpL-ZlfK_2scoeaC8_Uth5Hxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506985974303-4fk559un689kbjcbdf34m3hvarul1k92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
